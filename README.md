@@ -1,6 +1,6 @@
 # jko_wass_grad
 
-This repository contains the implementation for the paper **"Convergence of Flow-Based Generative Models via Proximal Gradient Descent in Wasserstein Space."** We provide numerical evidence to support Assumption 1 in the paper, which posits the smallness of the Wasserstein gradient.
+This repository contains the implementation for the paper [**Convergence of Flow-Based Generative Models via Proximal Gradient Descent in Wasserstein Space**](https://arxiv.org/abs/2310.17582) by **Xiuyuan Cheng**, **Jianfeng Lu**, **Yixin Tan** and **Yao Xie**. We provide numerical evidence to support Assumption 1 in the paper, which posits the smallness of the Wasserstein gradient.
 
 ## Repository Contents
 
